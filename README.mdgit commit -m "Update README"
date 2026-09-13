@@ -1,6 +1,6 @@
 # Multi-Source E-Commerce Batch ETL Pipeline
-![Pipeline run screenshot](docs/pipeline_run_screenshot.png)
 
+![Pipeline run screenshot](docs/pipeline_run_screenshot.png)
 A batch ETL pipeline built on Databricks that ingests, cleans, and integrates two independent real-world e-commerce datasets using the Medallion (Bronze → Silver → Gold) architecture demonstrating multi-source data engineering, data quality handling, and cross-source analytical integration.
 
 ## Overview
